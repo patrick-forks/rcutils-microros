@@ -1,2 +1,5 @@
 __pycache__
 doc_output
+.idea
+.vscode
+cmake-build*
